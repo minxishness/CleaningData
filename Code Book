@@ -1,0 +1,244 @@
+Data Dictionary:
+
+activity:
+activity type - one of the 6 following:
+  -WALKING
+  -WALKING_UPSTAIRS
+  -WALKING_DOWNSTAIRS
+  -SITTING
+  -STANDING
+  -LAYING
+
+subject:
+one of 30 test subjects
+
+tBodyAcc-mean()-X:
+Average of mean accelerometer 3-axial raw signals, by subject and activity - X axis - captured at a constant rate of 50Hz
+
+tBodyAcc-mean()-Y:
+Average of mean acceleromer 3-axial raw signals, by subject and activity - Y axis - captured at a constant rate of 50Hz
+
+tBodyAcc-mean()-Z:
+Average of mean accelerometer 3-axial raw signals, by subject and activity - Z axis - captured at a constant rate of 50Hz
+
+tGravityAcc-mean()-X
+Average of mean accelerometer 3-axial gravity signals, by subject and activity - X axis - captured at a constant rate of 50Hz
+
+tGravityAcc-mean()-X
+Average of mean accelerometer 3-axial gravity signals, by subject and activity - X axis - captured at a constant rate of 50Hz
+
+tGravityAcc-mean()-Y
+Average of mean accelerometer 3-axial gravity signals, by subject and activity - Y axis - captured at a constant rate of 50Hz
+
+tGravityAcc-mean()-Z
+Average of mean accelerometer 3-axial gravity signals, by subject and activity - Z axis - captured at a constant rate of 50Hz
+
+tBodyAccJerk-mean()-X
+Average of mean accelerometer 3-axial jerk signals, by subject and activity - X axis - captured at a constant rate of 50Hz
+
+tBodyAccJerk-mean()-Y
+Average of mean accelerometer 3-axial jerk signals, by subject and activity - Y axis - captured at a constant rate of 50Hz
+
+tBodyAccJerk-mean()-Z
+Average of mean accelerometer 3-axial jerk signals, by subject and activity - Z axis - captured at a constant rate of 50Hz
+
+tBodyGyro-mean()-X:
+Average of mean gyroscope 3-axial raw signals, by subject and activity - X axis - captured at a constant rate of 50Hz
+
+tBodyGyro-mean()-Y: - captured at a constant rate of 50Hz
+Average of mean gyroscope 3-axial raw signals, by subject and activity - Y axis - captured at a constant rate of 50Hz
+
+tBodyGyro-mean()-Z: 
+Average of mean gyroscope 3-axial raw signals, by subject and activity - Z axis - captured at a constant rate of 50Hz
+
+tBodyGyro-mean()-X:
+Average of mean gyroscope 3-axial jerk signals, by subject and activity - X axis - captured at a constant rate of 50Hz
+
+tBodyGyro-mean()-Y:
+Average of mean gyroscope 3-axial jerk signals, by subject and activity - Y axis - captured at a constant rate of 50Hz
+
+tBodyGyro-mean()-Z:
+Average of mean gyroscope 3-axial jerk signals, by subject and activity - Z axis - captured at a constant rate of 50Hz
+
+tBodyAccMag-mean()
+Average of mean accelerometer 3-axial signals magnitude, by subject and activity, calculated using the Euclidean norm - captured at a constant rate of 50Hz
+
+tGravityAccMag-mean()
+Average of mean accelerometer 3-axial gravity signals magnitude, by subject and activity, calculated using the Euclidean norm - captured at a constant rate of 50Hz
+
+tBodyAccJerkMag-mean()
+Average of mean accelerometer 3-axial jerk signals magnitude, by subject and activity, calculated using the Euclidean norm - captured at a constant rate of 50Hz
+
+
+fBodyAcc-mean()-X:
+Average of mean accelerometer 3-axial raw signals, by subject and activity - X axis - captured at a constant 50Hz rate after applying FFT 
+
+fBodyAcc-mean()-Y:
+Average of mean acceleromer 3-axial raw signals, by subject and activity - Y axis - captured at a constant 50Hz rate after applying FFT 
+
+fBodyAcc-mean()-Z:
+Average of mean accelerometer 3-axial raw signals, by subject and activity - Z axis - captured at a constant 50Hz rate after applying FFT 
+
+tGravityAcc-mean()-X
+Average of mean accelerometer 3-axial gravity signals, by subject and activity - X axis - captured at a constant 50Hz rate after applying FFT 
+
+tGravityAcc-mean()-X
+Average of mean accelerometer 3-axial gravity signals, by subject and activity - X axis - captured at a constant 50Hz rate after applying FFT 
+
+tGravityAcc-mean()-Y
+Average of mean accelerometer 3-axial gravity signals, by subject and activity - Y axis - captured at a constant 50Hz rate after applying FFT 
+
+tGravityAcc-mean()-Z
+Average of mean accelerometer 3-axial gravity signals, by subject and activity - Z axis - captured at a constant 50Hz rate after applying FFT 
+
+fBodyAccJerk-mean()-X
+Average of mean accelerometer 3-axial jerk signals, by subject and activity - X axis - captured at a constant 50Hz rate after applying FFT 
+
+fBodyAccJerk-mean()-Y
+Average of mean accelerometer 3-axial jerk signals, by subject and activity - Y axis - captured at a constant 50Hz rate after applying FFT 
+
+fBodyAccJerk-mean()-Z
+Average of mean accelerometer 3-axial jerk signals, by subject and activity - Z axis - captured at a constant 50Hz rate after applying FFT 
+
+fBodyGyro-mean()-X:
+Average of mean gyroscope 3-axial raw signals, by subject and activity - X axis - captured at a constant 50Hz rate after applying FFT 
+
+fBodyGyro-mean()-Y: - captured at a constant 50Hz rate after applying FFT 
+Average of mean gyroscope 3-axial raw signals, by subject and activity - Y axis - captured at a constant 50Hz rate after applying FFT 
+
+fBodyGyro-mean()-Z: 
+Average of mean gyroscope 3-axial raw signals, by subject and activity - Z axis - captured at a constant 50Hz rate after applying FFT 
+
+fBodyGyro-mean()-X:
+Average of mean gyroscope 3-axial jerk signals, by subject and activity - X axis - captured at a constant 50Hz rate after applying FFT 
+
+fBodyGyro-mean()-Y:
+Average of mean gyroscope 3-axial jerk signals, by subject and activity - Y axis - captured at a constant 50Hz rate after applying FFT 
+
+fBodyGyro-mean()-Z:
+Average of mean gyroscope 3-axial jerk signals, by subject and activity - Z axis - captured at a constant 50Hz rate after applying FFT 
+
+fBodyAccMag-mean()
+Average of mean accelerometer 3-axial signals magnitude, by subject and activity, calculated using the Euclidean norm - captured at a constant 50Hz rate after applying FFT 
+
+tGravityAccMag-mean()
+Average of mean accelerometer 3-axial gravity signals magnitude, by subject and activity, calculated using the Euclidean norm - captured at a constant 50Hz rate after applying FFT 
+
+fBodyAccJerkMag-mean()
+Average of mean accelerometer 3-axial jerk signals magnitude, by subject and activity, calculated using the Euclidean norm - captured at a constant 50Hz rate after applying FFT 
+
+tBodyAcc-std()-X:
+Average of standard deviation accelerometer 3-axial raw signals, by subject and activity - X axis - captured at a constant rate of 50Hz
+
+tBodyAcc-std()-Y:
+Average of standard deviation acceleromer 3-axial raw signals, by subject and activity - Y axis - captured at a constant rate of 50Hz
+
+tBodyAcc-std()-Z:
+Average of standard deviation accelerometer 3-axial raw signals, by subject and activity - Z axis - captured at a constant rate of 50Hz
+
+tGravityAcc-std()-X
+Average of standard deviation accelerometer 3-axial gravity signals, by subject and activity - X axis - captured at a constant rate of 50Hz
+
+tGravityAcc-std()-X
+Average of standard deviation accelerometer 3-axial gravity signals, by subject and activity - X axis - captured at a constant rate of 50Hz
+
+tGravityAcc-std()-Y
+Average of standard deviation accelerometer 3-axial gravity signals, by subject and activity - Y axis - captured at a constant rate of 50Hz
+
+tGravityAcc-std()-Z
+Average of standard deviation accelerometer 3-axial gravity signals, by subject and activity - Z axis - captured at a constant rate of 50Hz
+
+tBodyAccJerk-std()-X
+Average of standard deviation accelerometer 3-axial jerk signals, by subject and activity - X axis - captured at a constant rate of 50Hz
+
+tBodyAccJerk-std()-Y
+Average of standard deviation accelerometer 3-axial jerk signals, by subject and activity - Y axis - captured at a constant rate of 50Hz
+
+tBodyAccJerk-std()-Z
+Average of standard deviation accelerometer 3-axial jerk signals, by subject and activity - Z axis - captured at a constant rate of 50Hz
+
+tBodyGyro-std()-X:
+Average of standard deviation gyroscope 3-axial raw signals, by subject and activity - X axis - captured at a constant rate of 50Hz
+
+tBodyGyro-std()-Y: - captured at a constant rate of 50Hz
+Average of standard deviation gyroscope 3-axial raw signals, by subject and activity - Y axis - captured at a constant rate of 50Hz
+
+tBodyGyro-std()-Z: 
+Average of standard deviation gyroscope 3-axial raw signals, by subject and activity - Z axis - captured at a constant rate of 50Hz
+
+tBodyGyro-std()-X:
+Average of standard deviation gyroscope 3-axial jerk signals, by subject and activity - X axis - captured at a constant rate of 50Hz
+
+tBodyGyro-std()-Y:
+Average of standard deviation gyroscope 3-axial jerk signals, by subject and activity - Y axis - captured at a constant rate of 50Hz
+
+tBodyGyro-std()-Z:
+Average of standard deviation gyroscope 3-axial jerk signals, by subject and activity - Z axis - captured at a constant rate of 50Hz
+
+tBodyAccMag-std()
+Average of standard deviation accelerometer 3-axial signals magnitude, by subject and activity, calculated using the Euclidean norm - captured at a constant rate of 50Hz
+
+tGravityAccMag-std()
+Average of standard deviation accelerometer 3-axial gravity signals magnitude, by subject and activity, calculated using the Euclidean norm - captured at a constant rate of 50Hz
+
+tBodyAccJerkMag-std()
+Average of standard deviation accelerometer 3-axial jerk signals magnitude, by subject and activity, calculated using the Euclidean norm - captured at a constant rate of 50Hz
+
+
+fBodyAcc-std()-X:
+Average of standard deviation accelerometer 3-axial raw signals, by subject and activity - X axis - captured at a constant 50Hz rate after applying FFT 
+
+fBodyAcc-std()-Y:
+Average of standard deviation acceleromer 3-axial raw signals, by subject and activity - Y axis - captured at a constant 50Hz rate after applying FFT 
+
+fBodyAcc-std()-Z:
+Average of standard deviation accelerometer 3-axial raw signals, by subject and activity - Z axis - captured at a constant 50Hz rate after applying FFT 
+
+tGravityAcc-std()-X
+Average of standard deviation accelerometer 3-axial gravity signals, by subject and activity - X axis - captured at a constant 50Hz rate after applying FFT 
+
+tGravityAcc-std()-X
+Average of standard deviation accelerometer 3-axial gravity signals, by subject and activity - X axis - captured at a constant 50Hz rate after applying FFT 
+
+tGravityAcc-std()-Y
+Average of standard deviation accelerometer 3-axial gravity signals, by subject and activity - Y axis - captured at a constant 50Hz rate after applying FFT 
+
+tGravityAcc-std()-Z
+Average of standard deviation accelerometer 3-axial gravity signals, by subject and activity - Z axis - captured at a constant 50Hz rate after applying FFT 
+
+fBodyAccJerk-std()-X
+Average of standard deviation accelerometer 3-axial jerk signals, by subject and activity - X axis - captured at a constant 50Hz rate after applying FFT 
+
+fBodyAccJerk-std()-Y
+Average of standard deviation accelerometer 3-axial jerk signals, by subject and activity - Y axis - captured at a constant 50Hz rate after applying FFT 
+
+fBodyAccJerk-std()-Z
+Average of standard deviation accelerometer 3-axial jerk signals, by subject and activity - Z axis - captured at a constant 50Hz rate after applying FFT 
+
+fBodyGyro-std()-X:
+Average of standard deviation gyroscope 3-axial raw signals, by subject and activity - X axis - captured at a constant 50Hz rate after applying FFT 
+
+fBodyGyro-std()-Y: - captured at a constant 50Hz rate after applying FFT 
+Average of standard deviation gyroscope 3-axial raw signals, by subject and activity - Y axis - captured at a constant 50Hz rate after applying FFT 
+
+fBodyGyro-std()-Z: 
+Average of standard deviation gyroscope 3-axial raw signals, by subject and activity - Z axis - captured at a constant 50Hz rate after applying FFT 
+
+fBodyGyro-std()-X:
+Average of standard deviation gyroscope 3-axial jerk signals, by subject and activity - X axis - captured at a constant 50Hz rate after applying FFT 
+
+fBodyGyro-std()-Y:
+Average of standard deviation gyroscope 3-axial jerk signals, by subject and activity - Y axis - captured at a constant 50Hz rate after applying FFT 
+
+fBodyGyro-std()-Z:
+Average of standard deviation gyroscope 3-axial jerk signals, by subject and activity - Z axis - captured at a constant 50Hz rate after applying FFT 
+
+fBodyAccMag-std()
+Average of standard deviation accelerometer 3-axial signals magnitude, by subject and activity, calculated using the Euclidean norm - captured at a constant 50Hz rate after applying FFT 
+
+tGravityAccMag-std()
+Average of standard deviation accelerometer 3-axial gravity signals magnitude, by subject and activity, calculated using the Euclidean norm - captured at a constant 50Hz rate after applying FFT 
+
+fBodyAccJerkMag-std()
+Average of standard deviation accelerometer 3-axial jerk signals magnitude, by subject and activity, calculated using the Euclidean norm - captured at a constant 50Hz rate after applying FFT 
+
