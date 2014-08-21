@@ -1,6 +1,6 @@
 CleaningData
 ============
-In short the steps to create the clean data set were:
+The steps to create the clean data set were:
 
 1. Reading all files
 2. Adding activity (from ytrain and yTest files) to  Test and Training Sets (from Xtrain and Xtest files)
